@@ -1,0 +1,16 @@
+.card-img{
+    width: 150px;
+    height: 80px;
+    border-radius: 8px;
+}
+
+.card-img img{
+    display: block;
+}
+
+.card-caption{
+    font-size: 1rem;
+    width: 150px;
+    height: 54px;
+    text-align: left;
+}
